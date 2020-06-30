@@ -32,7 +32,7 @@ To predict patient survival status, we used the following models:
 
 Original data and reformatted data files contained in **data**
 
-MATLAB live script and html output files contained in **results**. We standardized all the data and ran the code again for `finalProjectZscore.html`.
+**MATLAB live script (.mlx)** and html output files contained in **results**. We standardized all the data and ran the code again for `finalProjectZscore.html`.
 
 For full details, please view **Final Report.pdf**.
 
