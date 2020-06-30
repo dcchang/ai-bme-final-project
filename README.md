@@ -8,7 +8,7 @@ Artificial Intelligence in BME Final Project
 
 ## Summary: 
 
-We evaluated different machine learning algorithsm for predicting primary biliary cirrhosis patient outcomes. 
+We evaluated different machine learning algorithms for predicting primary biliary cirrhosis patient outcomes. 
 
 This project used both unsupervised and supervised machine learning to predict patient survival time and status (alive or deceased) after a 10 year period.
 
