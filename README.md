@@ -5,7 +5,7 @@ Artificial Intelligence in BME Final Project
 Authors: David Chang and Mikey Komaiha
 Date: April 2020
 
-Summary: 
+## Summary: 
 
 We evaluated different machine learning algorithsm for predicting primary biliary cirrhosis patient outcomes. 
 
