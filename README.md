@@ -6,7 +6,7 @@ Artificial Intelligence in BME Final Project
 
 **Date:** April 2020
 
-## Summary: 
+## Summary 
 
 We evaluated different machine learning algorithms for predicting primary biliary cirrhosis patient outcomes. 
 
