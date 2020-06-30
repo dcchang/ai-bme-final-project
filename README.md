@@ -2,9 +2,9 @@
 
 Artificial Intelligence in BME Final Project
 
-Authors: David Chang and Mikey Komaiha
+**Authors:** David Chang and Mikey Komaiha
 
-Date: April 2020
+**Date:** April 2020
 
 ## Summary: 
 
